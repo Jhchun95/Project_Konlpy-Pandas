@@ -1,0 +1,14 @@
+// Konlpy 한국어 처리 패키지 종류 5가지
+https://datascienceschool.net/03%20machine%20learning/03.01.02%20KoNLPy%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%B2%98%EB%A6%AC%20%ED%8C%A8%ED%82%A4%EC%A7%80.html
+
+// JPype 설치 주소
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype
+
+// konlpy 설치 명령어
+https://konlpy-ko.readthedocs.io/ko/v0.4.3/install/#id2
+https://velog.io/@soo-im/konlpy-%EC%84%A4%EC%B9%98-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%EC%B1%85-%EC%95%84%EB%82%98%EC%BD%98%EB%8B%A4-JPYPE
+
+
+
+
+
