@@ -1,7 +1,14 @@
 > ## 공훈록 사건정보 분석
-> 1. 공훈전자사료관에서 배포하고 있는 공훈록을 토대로 형식에 맞게 사건분석
+> 1. 공훈전자사료관에서 배포하고 있는 공훈록을 토대로 사건분석하여 인포그래픽을 제작
 > 2. 국가보훈처에서 팀원과 같이 제작했던 프로젝트 소스코드 및 결과물
 <br/>
+
+* 결과물  
+<img src="./img/1장.png" width="450" height="250"> <img src="./img/2장.png" width="450" height="250">
+<img src="./img/3장.png" width="450" height="250"> <img src="./img/4장.png" width="450" height="250">
+<img src="./img/5장.png" width="450" height="250"> <img src="./img/6장.png" width="450" height="250">
+<img src="./img/7장.png" width="450" height="250"> <img src="./img/8장.png" width="450" height="250">
+
 
 > ### :heavy_check_mark: 프로젝트 개발환경  
 > 1. Windows 10 Pro 64bit, x64 기반 프로세서, RAM 16GB  
