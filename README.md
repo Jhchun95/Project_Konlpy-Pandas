@@ -43,6 +43,14 @@
 <독립운동 사건 죄명 관련 인포그래픽3 예시>  
 <img src="./img/7장.png" width="500" height="300"><br/><br/>  
 
+<학생운동 1920년대>  
+<img src="./img/wc_1920.png" width="450" height="250"><br/>  
+<학생운동 1930년대>  
+<img src="./img/wc_1930.png" width="450" height="250"><br/>  
+<학생운동 1940년대>  
+<img src="./img/wc_1940.png" width="450" height="250"><br/><br/>  
+
+
 > ### :heavy_check_mark: 프로젝트 개발환경  
 > 1. Windows 10 Pro 64bit, x64 기반 프로세서, RAM 16GB  
 > 2. Python 3.8.10  
