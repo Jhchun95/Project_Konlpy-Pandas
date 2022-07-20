@@ -50,6 +50,17 @@
 <학생운동 1940년대>  
 <img src="./img/wc_1940.png" width="450" height="250"><br/><br/>  
 
+> ### :heavy_check_mark: 한계점  
+> 1. 공유받은 독립유공자의 내용 자료가 이미 한 번 가공된 비정형 데이터였기 때문에, 정확성이 많이 떨어짐  
+> 2. 단어의 전처리에 있어 일반적인 데이터 전처리 과정 외에도, 역사 전문가의 검토를 데이터 정제가 필요함  
+<br/>
+
+> ### :heavy_check_mark: 기대효과  
+> 1. 독립유공자 정보 중 활동 유형, 활동 시기, 소속 단체, 지역, 형명 등 통계를 도출할 수 있는 전처리 요소들이  
+추후 구축 제공할 수 있는 신규 콘텐츠 유형에 검토될 수 있음  
+<br/>
+
+<br/>
 
 > ### :heavy_check_mark: 프로젝트 개발환경  
 > 1. Windows 10 Pro 64bit, x64 기반 프로세서, RAM 16GB  
@@ -69,3 +80,6 @@
 > 1. Jupyter Lab, Visual Studio Code  
 > 2. HeidSql  
 > 3. Qgis DeskTop 3.16.15 with grass 7.8.5  
+
+
+
